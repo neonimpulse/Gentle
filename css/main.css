@@ -302,7 +302,6 @@ input.input100 {
 [ Width ]*/
 .wsize1 {
   max-width: 650px;
-  display: none;
 }
 
 .wsize2 {
